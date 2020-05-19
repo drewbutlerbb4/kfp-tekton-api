@@ -1,0 +1,17 @@
+{
+    "is_connected": false,
+    "is_started": false,
+    "pipeline_list": [
+        {
+            "id": "flip-coin",
+            "name": "Flip Coin Example",
+            "description": "A flip coin example for testing DSL.Condition"
+        }
+    ],
+    "state": {
+        "pipeline_details_pipeline": "flip-coin",
+        "new_run_pipeline": "flip-coin",
+        "run_details_pipeline": "flip-coin"
+    },
+    "runs_list": []
+}
